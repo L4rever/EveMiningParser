@@ -1,0 +1,43 @@
+﻿Временная метка	Тип руды	Количество	Количество отходов	Объем	Объем отходов	Примерная цена	Примерная цена отходов	Звёздная система	Идентификатор типа руды	Идентификатор звёздной системы
+2023.05.02	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	492	328	19680.0	13120.0	20891830	13927886	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.02	<localized hint="Mercoxit">Mercoxit</localized>	487	275	19480.0	11000.0	18207824	10281625	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.02	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	7044	4326	281760.0	173040.0	258287278	158624470	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.03	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	835	451	33400.0	18040.0	35456663	19150844	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.03	<localized hint="Mercoxit">Mercoxit</localized>	835	514	33400.0	20560.0	31218754	19217293	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.04	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	857	510	34280.0	20400.0	36390850	21656165	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.04	<localized hint="Mercoxit">Mercoxit</localized>	491	304	19640.0	12160.0	18357375	11365869	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.04	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	8497	5296	339880.0	211840.0	311565446	194192139	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.05	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	388	191	15520.0	7640.0	16475671	8110446	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.05	<localized hint="Mercoxit">Mercoxit</localized>	902	531	36080.0	21240.0	33723732	19852884	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.05	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	3915	2699	156600.0	107960.0	143554045	98966122	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.06	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	1721	1010	68840.0	40400.0	73078943	42887700	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.06	<localized hint="Mercoxit">Mercoxit</localized>	861	542	34440.0	21680.0	32190835	20264149	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.06	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	6148	4008	245920.0	160320.0	225433019	146964141	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.07	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	1640	854	65600.0	34160.0	69639434	36263461	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.07	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	2901	2103	116040.0	84120.0	106372997	77112173	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.19	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	470	188	18800.0	7520.0	19957642	7983057	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.19	<localized hint="Mercoxit">Mercoxit</localized>	1715	893	68600.0	35720.0	64119956	33387242	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.19	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	2381	974	95240.0	38960.0	87305793	35714339	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.20	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	2244	805	89760.0	32200.0	95287129	34182771	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.20	<localized hint="Mercoxit">Mercoxit</localized>	1123	418	44920.0	16720.0	41986420	15628071	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.20	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	15844	6199	633760.0	247960.0	580963038	227303072	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.21	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	3482	1016	139280.0	40640.0	147856409	43142479	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.21	<localized hint="Mercoxit">Mercoxit</localized>	682	243	27280.0	9720.0	25498431	9085218	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.21	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	10513	4118	420520.0	164720.0	385487530	150997588	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.22	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	882	245	35280.0	9800.0	37452427	10403452	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.22	<localized hint="Mercoxit">Mercoxit</localized>	1298	592	51920.0	23680.0	48529273	22133536	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.22	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	1092	399	43680.0	15960.0	40041128	14630412	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.23	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	2974	1127	118960.0	45080.0	126285170	47855879	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.23	<localized hint="Mercoxit">Mercoxit</localized>	385	49	15400.0	1960.0	14394276	1831998	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.23	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	7611	2744	304440.0	109760.0	279077864	100616168	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.24	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	1107	404	44280.0	16160.0	47006618	17155080	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.24	<localized hint="Mercoxit">Mercoxit</localized>	621	196	24840.0	7840.0	23217780	7327995	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.24	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	2647	1029	105880.0	41160.0	97059401	37731063	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.26	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	1740	821	69600.0	32840.0	73885741	34862180	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.26	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	2660	1100	106400.0	44000.0	97536081	40334470	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.27	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	2745	999	109800.0	39960.0	116561127	42420606	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.27	<localized hint="Mercoxit">Mercoxit</localized>	294	98	11760.0	3920.0	10991992	3663997	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.27	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	2689	1225	107560.0	49000.0	98599445	44917932	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
+2023.05.29	<localized hint="Magma Mercoxit">Magma Mercoxit</localized>	214	107	8560.0	4280.0	9087096	4543548	<localized hint="VE-W7O">VE-W7O</localized>	17869	30001824
+2023.05.29	<localized hint="Mercoxit">Mercoxit</localized>	98	49	3920.0	1960.0	3663997	1831998	<localized hint="VE-W7O">VE-W7O</localized>	11396	30001824
+2023.05.29	<localized hint="Vitreous Mercoxit">Vitreous Mercoxit</localized>	637	203	25480.0	8120.0	23357324	7443543	<localized hint="VE-W7O">VE-W7O</localized>	17870	30001824
